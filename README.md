@@ -18,6 +18,7 @@ Late deliveries do not lead to meaningfully worse ratings in this dataset.
 ## Data Source
 [Kaggle - Food Delivery] https://www.kaggle.com/datasets/jayjoshi37/daily-food-delivery-orders-and-delivery-time
 
-![My Plot] (Graph2.png)
+## Example of Graph (Question 2) 
+<img width="586" height="358" alt="image" src="https://github.com/user-attachments/assets/a389f9bb-f058-414b-8044-6a87a40be15b" />
 
 
